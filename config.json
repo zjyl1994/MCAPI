@@ -1,0 +1,9 @@
+{
+	"ListenAddr":":2048",	
+	"SecertKey":"1234567890",
+	"MaxMemory":4096,
+	"JarPath":"/root/Server/Thermos-1.7.10-1614-server.jar",
+	"WorkDir":"/root/Server",
+	"StopCommand":"stop",
+	"AllowRemoteExec":false
+}
